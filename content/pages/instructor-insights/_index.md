@@ -3,6 +3,8 @@ content_type: page
 description: 'In this section, Professor M. Amah Edoh describes various aspects of
   how she taught 21G.026 Global Africa: Creative Cultures.'
 draft: false
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
