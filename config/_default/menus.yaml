@@ -1,0 +1,76 @@
+leftnav:
+- identifier: f6659f44-ef40-6e06-9882-8ca2b06ad730
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2915d0c2-f600-b58d-1c4c-c7a171237154
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 35f50cac-f5a3-c531-7e36-e27bc4cfaabd
+  name: Africa as a Category of Thought
+  pageRef: /pages/instructor-insights/africa-as-a-category-of-thought
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 40
+- identifier: 328937bd-fb02-485e-47e2-62e8f00376d9
+  name: The Broader Relevance of Studying Africa
+  pageRef: /pages/instructor-insights/the-broader-relevance-of-studying-africa
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 50
+- identifier: 71af4be8-e69f-3dfe-5e61-1d13482075d8
+  name: Varieties of Cultural Production
+  pageRef: /pages/instructor-insights/varieties-of-cultural-production
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 60
+- identifier: bf6f6c15-0b56-8678-05d1-3feeaefa9655
+  name: Special Events
+  pageRef: /pages/instructor-insights/special-events
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 70
+- identifier: 2925aec8-83b8-9025-e5a3-63b497f5b29c
+  name: Written Reading Responses
+  pageRef: /pages/instructor-insights/written-reading-responses
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 80
+- identifier: 28391e91-8c38-e15f-d63b-e4f59c20469a
+  name: The Creative Final Project
+  pageRef: /pages/instructor-insights/the-creative-final-project
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 90
+- identifier: 98dbff36-2480-d42a-febe-8a80bcc9487a
+  name: What Will It Be Like Next Time?
+  pageRef: /pages/instructor-insights/what-will-it-be-like-next-time
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 100
+- identifier: 36367b87-9d1e-35ec-45d8-5b7cf6ef6de6
+  name: Advice to Fellow Educators
+  pageRef: /pages/instructor-insights/advice-to-fellow-educators
+  parent: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
+  weight: 110
+- identifier: 137c48d1-3655-3ace-911a-284c234df16d
+  name: Readings and Videos
+  pageRef: /pages/readingsandvideos/
+  weight: 120
+- identifier: 778b6d1f-c07e-8d9d-e2a4-03cc725e6096
+  name: 'How to Read Closely: Questions to Ask of Texts'
+  pageRef: /pages/readingsandvideos/howtoreadclosely
+  parent: 137c48d1-3655-3ace-911a-284c234df16d
+  weight: 130
+- identifier: ae37e3f5-5e19-1886-147f-7dbca7ec27f1
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 140
+- identifier: f1ef1f92-90f8-78f0-a6fb-0bde2a388582
+  name: Paper Assignment Guidelines
+  pageRef: /pages/assignments/paper-assignment-guidelines
+  parent: ae37e3f5-5e19-1886-147f-7dbca7ec27f1
+  weight: 150
+- identifier: 2b07c544-9c04-f6b7-7b0c-5bf866bc9502
+  name: Final Project Prospectus Guidelines
+  pageRef: /pages/assignments/final-project-prospectus-guidelines
+  parent: ae37e3f5-5e19-1886-147f-7dbca7ec27f1
+  weight: 160
