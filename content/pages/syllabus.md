@@ -65,4 +65,4 @@ For further detail on the activities above, see the {{% resource_link ae37e3f5-5
 
 ## Academic Integrity
 
-MIT students are expected to adhere to MIT’s [Academic Integrity](https://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
+MIT students are expected to adhere to MIT’s {{% resource_link "72c0ae24-d1e5-45dc-a168-08a511671ac3" "Academic Integrity" %}} policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
