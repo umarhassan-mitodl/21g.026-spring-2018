@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the course topics and key due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -49,9 +47,9 @@ Course overview
 
 _Special class outing:_ 
 
-"Hear Word! Naija Woman Talk True," [American Repertory Theater](https://americanrepertorytheater.org/shows-events/hear-word-naija-woman-talk-true/), Cambridge, MA
+"Hear Word! Naija Woman Talk True," {{% resource_link "53ed8caf-03aa-4005-8502-b40620cee43d" "American Repertory Theater" %}}, Cambridge, MA
 
-"[Creating HEAR WORD! Naija Woman Talk True](https://www.youtube.com/watch?v=8rBaFBrlbLE)." YouTube.
+"{{% resource_link "11d6f91e-1704-4484-b6ec-e6ea2e08dbd6" "Creating HEAR WORD! Naija Woman Talk True" %}}." YouTube.
 
 
 {{< tdclose >}}
@@ -117,11 +115,11 @@ Reading response #3 due
 
 _Special class outings:_
 
-Screenings at the [Harvard Film Archive](https://harvardfilmarchive.org/), Cambridge, MA, with Franco-Senegalese filmmaker [Alain Gomis](https://en.wikipedia.org/wiki/Alain_Gomis) in attendance
+Screenings at the {{% resource_link "fa1762e7-5cd9-428b-9d2f-7f3a313c1e3b" "Harvard Film Archive" %}}, Cambridge, MA, with Franco-Senegalese filmmaker {{% resource_link "408ee0c9-7420-47b4-abdf-dd1ae19fa9a4" "Alain Gomis" %}} in attendance
 
-_[Tey aka Aujourd'hui](https://www.imdb.com/title/tt2178935/?ref_=fn_al_tt_1)._ Directed by Alain Gomis. Color, 86 min. 2012.
+_{{% resource_link "fe1090f7-e8f3-45cb-9d53-7c693e518784" "Tey aka Aujourd'hui" %}}._ Directed by Alain Gomis. Color, 86 min. 2012.
 
-[_Félicité_](https://www.imdb.com/title/tt5980798/?ref_=nv_sr_1). Directed by Alain Gomis. Color, 129 min. 2017.
+{{% resource_link "adc2ad12-34e7-4c38-88ed-4d4699567291" "_Félicité_" %}}. Directed by Alain Gomis. Color, 129 min. 2017.
 
 
 {{< tdclose >}}

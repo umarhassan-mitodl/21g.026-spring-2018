@@ -13,7 +13,7 @@ uid: f1ef1f92-90f8-78f0-a6fb-0bde2a388582
 
 For the past few weeks, we have been thinking through how “‘Africa’ as a place-in-the-world” (Ferguson 2006, 4) is negotiated through various material and visual forms and the creative practices that bring them into being. In Unit 1, we discussed how the body is an important site for the performance of social selves and social status, whether through performance arts, like dance class, or the everyday performances of dress choices. In Unit 2, we considered how power can be read in the production and circulation of various sorts of images, from ethnographic portraits, to personal portraits, to photo novels, to various genres of film, as well as in the images themselves.
 
-For this paper, I would like for you to bring the issues that we have been tackling to bear on the analysis of Ng’endo Mukii’s documentary-animation, _[Yellow Fever](https://vimeo.com/122574484)_ (2012), a documentary that brings together all of the forms of creative practice that we have discussed thus far: What story of African being in the world does this documentary tell? How does it go about telling this story? At the very least, I would like for your discussion to touch on the subjects of power, agency, representation, and circulation in addressing these questions.
+For this paper, I would like for you to bring the issues that we have been tackling to bear on the analysis of Ng’endo Mukii’s documentary-animation, _{{% resource_link "e756f7b5-31d6-475b-85e9-0e975fbf7fcc" "Yellow Fever" %}}_ (2012), a documentary that brings together all of the forms of creative practice that we have discussed thus far: What story of African being in the world does this documentary tell? How does it go about telling this story? At the very least, I would like for your discussion to touch on the subjects of power, agency, representation, and circulation in addressing these questions.
 
 Drawing from assigned course readings and films, please write a 5-page, double-spaced paper (1250–1500 words, in Times New Roman font size 12). Your paper must articulate an argument in answer to the main question posed above, based on an analysis of Mukii’s documentary, and bolstered by a discussion of the arguments of the writers we have read thus far.
 
@@ -24,7 +24,7 @@ Evaluation criteria:
 *   Structure (Is the paper organized in an understandable manner? Are citations included? Are they used appropriately? Are page numbers included?)
 *   Writing (Is the paper spell-checked? How is the use of grammar? Is sentence structure varied? Is the writing polished?)
 
-For guidance on how to cite work in your paper, please consult [Chicago Citation Style: Footnotes and Bibliography. (PDF)](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf)
+For guidance on how to cite work in your paper, please consult {{% resource_link "1b82aa41-9629-43bc-b941-581b3d9360e4" "Chicago Citation Style: Footnotes and Bibliography. (PDF)" %}}
 
 How to go about writing this paper (in case you’re stuck):
 
