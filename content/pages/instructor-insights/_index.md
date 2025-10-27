@@ -3,8 +3,6 @@ content_type: page
 description: 'In this section, Professor M. Amah Edoh describes various aspects of
   how she taught 21G.026 Global Africa: Creative Cultures.'
 draft: false
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -37,7 +35,7 @@ There are no prerequisites for this course, but French language concentrators sh
 ### Requirements Satisfied
 
 - HASS-H
-- 21G.026 can be applied toward a [Bachelor of Science in Global Studies and Languages (French Studies)](http://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/).
+- 21G.026 can be applied toward a {{% resource_link "551e3e6c-fbd2-4789-8762-8d3ef8c73103" "Bachelor of Science in Global Studies and Languages (French Studies)" %}}.
 
 ### Offered
 
